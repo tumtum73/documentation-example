@@ -35,7 +35,7 @@ Some CLI tools for auto generating document files.
 
 ## 💡 Guides
 
-- [_Make a Reademe_](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
+- [_Make a Readme_](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
 - [_Art of Readme_](https://github.com/noffle/art-of-readme) - For even more background, wisdom, and ideas
 
 ## 🗃️ Other Templates
